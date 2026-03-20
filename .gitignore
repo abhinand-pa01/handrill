@@ -1,0 +1,24 @@
+# frontend
+frontend/handrill/node_modules
+frontend/handrill/dist
+
+# backend
+backend/handrill-backend/target
+
+# env
+.env
+.env.*
+frontend/handrill/.env*
+backend/handrill-backend/.env*
+
+# logs
+*.log
+
+# system
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.iml
