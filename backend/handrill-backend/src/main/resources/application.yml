@@ -4,6 +4,10 @@ server:
     context-path: /api
 
 spring:
+  jpa:
+    open-in-view: false
+    
+spring:
   application:
     name: handrill
   threads:
